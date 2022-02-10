@@ -1,4 +1,4 @@
-# Face_Recognition_Sape
+# Face_Recognition_Shape
 
 This Example is showing how to draw a rectangle or square view around the Face detected by camera expo APi , the moving animation has been made with the help of
 reat native reanimated 2 library.
